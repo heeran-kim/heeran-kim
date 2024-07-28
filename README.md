@@ -7,10 +7,11 @@ A Master's in IT student ready to jump into the development world!
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 ## Tools:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -25,4 +26,5 @@ A Master's in IT student ready to jump into the development world!
 
 ## Stats:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heeran-kim&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heeran-kim&show_icons=true&count_private=true&include_all_commits=true&theme=default)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heeran-kim&show_icons=true&count_private=true&include_all_commits=true&theme=default&token=YOUR_PERSONAL_ACCESS_TOKEN)
