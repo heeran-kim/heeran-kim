@@ -41,12 +41,12 @@ A Master's in IT student ready to jump into the development world!
 #### 🔹 **Tech Stack (Before - Laravel Version)**
 - Laravel, MySQL, Inertia.js, React  
 
-🔗 [Laravel Version Repository](github.com/heeran-kim/promoease-web)
+🔗 [Laravel Version Repository](https://github.com/heeran-kim/promoease-web)
 
 #### 🔹 **Tech Stack (Now - FastAPI & Django Version)**
 - FastAPI, Django, Inertia.js, React, AI APIs  
 
-🔗 [FastAPI & Django Version Repository](github.com/heeran-kim/promoease-ai)
+🔗 [FastAPI & Django Version Repository](https://github.com/heeran-kim/promoease-ai)
 
 ---
 
@@ -54,7 +54,7 @@ A Master's in IT student ready to jump into the development world!
 > A web-based platform for students and teachers to manage peer reviews and assignments.  
 > **Tech Stack:** Laravel, SQLite, Bootstrap, JavaScript  
 
-🔗 [GitHub Repository](github.com/heeran-kim/classmate-web)
+🔗 [GitHub Repository](https://github.com/heeran-kim/classmate-web)
 
 ---
 
@@ -62,7 +62,7 @@ A Master's in IT student ready to jump into the development world!
 > A full-stack web application for managing short-term rentals with a secure login system and a responsive UI.  
 > **Tech Stack:** Laravel, SQLite, Bootstrap, JavaScript  
 
-🔗 [GitHub Repository](github.com/heeran-kim/easystay-web)
+🔗 [GitHub Repository](https://github.com/heeran-kim/easystay-web)
 
 ---
 
