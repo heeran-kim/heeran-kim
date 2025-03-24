@@ -6,6 +6,7 @@ A Master's in IT student ready to jump into the development world!
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -16,11 +17,10 @@ A Master's in IT student ready to jump into the development world!
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 ## 🔧 Tools & Platforms:
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Inertia.js](https://img.shields.io/badge/-Inertia.js-2D3748?style=flat-square&logo=inertia&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -34,19 +34,19 @@ A Master's in IT student ready to jump into the development world!
 ![Agile](https://img.shields.io/badge/-Agile-FF5733?style=flat-square&logo=agile&logoColor=white)
 
 ## 💻 Projects:
-### **Promo Ease** *(2024 - In Progress)*
-> A platform designed to help businesses automate and streamline their promotional campaigns using AI-driven content generation and scheduling.  
-> Initially developed using **Laravel**, the project was later transitioned to **FastAPI and Django** for enhanced AI API integration and machine learning capabilities.
+### **AI Marketer** *(2024 - In Progress)*
+> An AI-powered marketing tool designed to help small business owners generate promotional content and social media posts with ease.  
+> Key features include user authentication, AI-generated captions, and external API integration.  
+> Developed with a modern full-stack architecture using **Next.js (frontend)** and **Django (backend)**.
 
-#### 🔹 **Tech Stack (Before - Laravel Version)**
+#### 🔹 **Tech Stack (Initial Laravel Version)**
 - Laravel, MySQL, Inertia.js, React  
-
 🔗 [Laravel Version Repository](https://github.com/heeran-kim/promoease-web)
 
-#### 🔹 **Tech Stack (Now - FastAPI & Django Version)**
-- FastAPI, Django, Inertia.js, React, AI APIs  
-
-🔗 [FastAPI & Django Version Repository](https://github.com/heeran-kim/promoease-ai)
+#### 🔹 **Tech Stack (Current Version – AI Marketer v2)**
+- Next.js, TypeScript, Django, React  
+🔗 [Frontend Repository](https://github.com/heeran-kim/ai-marketer-v2-frontend)  
+🔗 [Backend Repository](https://github.com/heeran-kim/ai-marketer-v2-backend)
 
 ---
 
