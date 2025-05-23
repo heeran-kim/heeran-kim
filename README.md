@@ -6,8 +6,7 @@ I'm currently pursuing a Master of Information Technology at Griffith University
 
 My development journey spans from academic foundations to real-world applications, culminating in professional industry experience where I led development teams and delivered production-ready software.
 
-🌐 **[View My Portfolio](https://heerankim.com)** | 📄 **[Download Resume](https://github.com/user-attachments/files/20402970/Heeran.Kim.s.Resume.2025.05.pdf)
-** | 💼 **[LinkedIn](https://linkedin.com/in/heeran-kim)**
+🌐 **[View My Portfolio](https://heerankim.com)** | 📄 **[Download Resume](https://github.com/user-attachments/files/20402970/Heeran.Kim.s.Resume.2025.05.pdf)** | 💼 **[LinkedIn](https://linkedin.com/in/heeran-kim)**
 
 ---
 
