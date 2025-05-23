@@ -6,7 +6,7 @@ I'm currently pursuing a Master of Information Technology at Griffith University
 
 My development journey spans from academic foundations to real-world applications, culminating in professional industry experience where I led development teams and delivered production-ready software.
 
-🌐 **[View My Portfolio](https://heerankim.com)** | 📄 **[Download Resume](https://github.com/user-attachments/files/20402970/Heeran.Kim.s.Resume.2025.05.pdf)** | 💼 **[LinkedIn](https://linkedin.com/in/heeran-kim)**
+🌐 **[View My Portfolio](https://heerankim.com)** | 📄 **[Download Resume](https://github.com/user-attachments/files/20402970/Heeran.Kim.s.Resume.2025.05.pdf)** | 💼 **[LinkedIn](https://linkedin.com/in/heerankim)**
 
 ---
 
@@ -102,7 +102,7 @@ Full-featured web platform showcasing complex user management, structured data r
 
 I'm excited to apply my diverse development experience and leadership skills in challenging new roles. Let's discuss how my journey from academic theory to industry practice can benefit your organisation.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heeran-kim)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heerankim)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heerankim3@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://heerankim.com)
 
