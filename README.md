@@ -6,7 +6,7 @@ I'm currently pursuing a Master of Information Technology at Griffith University
 
 My development journey spans from academic foundations to real-world applications, culminating in professional industry experience where I led development teams and delivered production-ready software.
 
-🌐 **[View My Portfolio](https://wil-portfolio-eight.vercel.app)**
+🌐 **[View My Portfolio](https://heerankim.com)**
 
 ---
 
@@ -104,7 +104,7 @@ I'm excited to apply my diverse development experience and leadership skills in 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heeran-kim)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heerankim3@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://heeran-kim-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://heerankim.com)
 
 
 ---
