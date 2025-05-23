@@ -89,18 +89,6 @@ Full-featured web platform showcasing complex user management, structured data r
 
 ---
 
-### **Easy Stay** *(2024)*
-> Rental review platform built with foundational web development principles
-
-Demonstrates solid understanding of web fundamentals, custom validation, and data management without framework dependencies.
-
-**Key Features**: Custom Validation, Raw SQL Queries, Session Management, Review Analytics  
-**Tech Stack**: Laravel, SQLite, Bootstrap
-
-🔗 **[GitHub Repository](https://github.com/heeran-kim/easystay-web)** *(includes screenshots & detailed features)*
-
----
-
 ## 📊 GitHub Stats:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heeran-kim&layout=compact&theme=default)
 
